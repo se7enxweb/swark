@@ -21,14 +21,15 @@
 
 class SwarkInfo
 {
-    function info()
+    static function info()
     {
         return array(
-            'Name' => 'Swark for eZ Publish 5.x',
-            'Version' => '1.0.2',
-            'Copyright' => 'Copyright (C) 2008 <a href="http://www.seeds.no">Seeds Consulting AS</a>',
-                           "Copyright (C) 1999 - 2015 <a href='http://brookinsconsulting.com'>Brookins Consulting</a>",
-            'License' => 'GNU General Public License v2.0'
+            'Name' => 'Swark for Exponential',
+            'Version' => '1.0.3',
+            'Copyright' => 'Copyright (C) 2008 <a href="http://www.seeds.no">Seeds Consulting AS</a>, '
+                         . "Copyright (C) 1999 - 2015 <a href='http://brookinsconsulting.com'>Brookins Consulting</a>",
+            'License' => 'GNU General Public License v2.0 (or any later version)',
+            'Info_url' => 'https://github.com/se7enxweb/swark'
         );
     }
 }
