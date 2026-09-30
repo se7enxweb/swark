@@ -1,6 +1,6 @@
 <?php
 //
-// Swark - extension for eZ Publish
+// Swark - extension for Exponential
 // Author: Jan Kudlicka <jk@seeds.no>
 // Copyright (C) 2008 Seeds Consulting AS, http://www.seeds.no/
 //
