@@ -25,7 +25,7 @@ class SwarkInfo
     {
         return array(
             'Name' => 'Swark for Exponential',
-            'Version' => '1.0.3',
+            'Version' => '1.0.4',
             'Copyright' => 'Copyright (C) 2008 <a href="http://www.seeds.no">Seeds Consulting AS</a>, '
                          . "Copyright (C) 1999 - 2015 <a href='http://brookinsconsulting.com'>Brookins Consulting</a>",
             'License' => 'GNU General Public License v2.0 (or any later version)',
